@@ -12,9 +12,9 @@ LasGuide is a free desktop app for Karttapullautin (pullauta), the tool that tur
 
 This repository only hosts the ready-to-run downloads. Get them from the [Releases](../../releases/latest) page.
 
-**Current version: [v1.5.0](../../releases/tag/v1.5.0)** (released 2026-11-11).
+**Current version: [v1.5.3](../../releases/tag/v1.5.3)** (released 2026-11-18).
 
-**What's new in 1.5.0:** Language packs download again. A 1 pixel gap along neighbouring tile joins is closed. When a run finishes with many warnings, the list scrolls and the buttons stay in view; tiles skipped because they sit outside the crop box are counted in the summary. **Generate DEM** writes into the current run folder when one exists. Opening a project finds LiDAR in older folder names such as `USGS-LiDAR` (files are never renamed or moved). Show parks fills the list in one step. Full list in the [release notes](../../releases/tag/v1.5.0).
+**What's new in 1.5.3:** OCAD maps show vegetation, open land and buildings filled again, and print on LasGuide's page. Maps use LasGuide's own IOF symbol sets (ISOM 2017-2 and ISSprOM 2019-2), with a new Symbol set choice on the Map tab and a `.crt` file to switch between them. Latvia and Estonia download in Find LiDAR, Livelox events are listed for any search area, and a LiDAR search always ends with a clear result. New maps start at Forest 1:7500. The splash screen keeps its size and fits at 125–175 % scaling. Full list in the [release notes](../../releases/tag/v1.5.3).
 
 | Your computer | Download |
 |---|---|
