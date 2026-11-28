@@ -73,4 +73,4 @@ Free for personal, club, school and other non-commercial use under the [PolyForm
 
 pullauta (Karttapullautin) is a separate program under the GPL-3.0 ([source](https://github.com/karttapullautin/karttapullautin)).
 
-More help is in the [wiki](../../wiki).
+More help is in the [wiki](../../wiki), including the [Help Guide](../../wiki/Help-Guide). A PDF is on the release: [LasGuide-Help-Guide-1.5.6.pdf](https://github.com/wdickin/LasGuide-releases/releases/download/v1.5.6/LasGuide-Help-Guide-1.5.6.pdf).
