@@ -12,9 +12,9 @@ LasGuide is a free desktop app for Karttapullautin (pullauta), the tool that tur
 
 This repository only hosts the ready-to-run downloads. Get them from the [Releases](../../releases/latest) page.
 
-**Current version: [v1.5.7](../../releases/tag/v1.5.7)** (released 2026-11-28).
+**Current version: [v1.5.8](../../releases/tag/v1.5.8)** (released 2026-11-28).
 
-**What's new in 1.5.7:** Files › Settings is one window for program settings, save locations and defaults. OK, Apply, Cancel and Reset to defaults stay pinned at the top; only the pane scrolls. A default output folder starts a new project in the folder you choose. The Settings list uses the theme palette in light and dark mode. With Find LiDAR open at 125% text size, the Map type box can clip Sprint 1:4000 (ISSprOM). Full list in the [release notes](../../releases/tag/v1.5.7).
+**What's new in 1.5.8:** The analysis settings now drive the saved map, not only the preview. Vegetation, cliffs, marsh, knolls, form lines and templates reach the .omap. LiDAR streams follow the Streams setting (306, and 305 for big catchments). Isolated trees and Form line position are coming in a later version; Open land with scattered trees (402) and the forest-start canopy limit still change the preview only. Full list in the [release notes](../../releases/tag/v1.5.8).
 
 | Your computer | Download |
 |---|---|
