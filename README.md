@@ -12,9 +12,9 @@ LasGuide is a free desktop app for Karttapullautin (pullauta), the tool that tur
 
 This repository only hosts the ready-to-run downloads. Get them from the [Releases](../../releases/latest) page.
 
-**Current version: [v1.5.5](../../releases/tag/v1.5.5)** (released 2026-11-27).
+**Current version: [v1.5.6](../../releases/tag/v1.5.6)** (released 2026-11-28).
 
-**What's new in 1.5.5:** Update now installs inside the app again. Find LiDAR stays on the rectangle you drew, and a result that needs a key or a smaller area stays in the list with that note. Cancel stops a search instead of closing the window. Compare, Cancel and the analysis tools share one queue. Files › Clean up old projects… moves old folders to the recycle bin after you confirm. Simple mode has five tasks: Find LiDAR, Extract map data, Make map, Adjust map, and Output. The elevation grid is built-in, and the stream threshold is a land area from 1,000 m² to 50 ha. Full list in the [release notes](../../releases/tag/v1.5.5).
+**What's new in 1.5.6:** At a 1024 px Expert window, ISOM 2017-2 and ISSprOM 2019-2 stay whole, and the Scale dropdown sits directly before the symbol set. Make map stays grey until LiDAR analysis has finished, then Expert mode pauses so you can review before saving. Analysis sliders change the preview square and Compare only, not the saved map. Find LiDAR no longer freezes while Livelox events load. On Windows, a system colour no longer crashes the app at start-up. Wales and North Carolina LiDAR are available in Find LiDAR. Full list in the [release notes](../../releases/tag/v1.5.6).
 
 | Your computer | Download |
 |---|---|
