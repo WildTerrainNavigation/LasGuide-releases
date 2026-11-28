@@ -14,7 +14,7 @@ This repository only hosts the ready-to-run downloads. Get them from the [Releas
 
 **Current version: [v1.5.7](../../releases/tag/v1.5.7)** (released 2026-11-28).
 
-**What's new in 1.5.7:** Files › Settings is one window for program settings, save locations and defaults. OK, Apply, Cancel and Reset to defaults stay pinned at the top; only the pane scrolls. A default output folder starts a new project in the folder you choose. The Settings list uses the theme palette in light and dark mode. Paint building blocks on the map image (experimental, Expert mode only) only paints the map image in Expert mode and is not saved in the .omap. With Find LiDAR open at 125% text size, the Map type box can clip Sprint 1:4000 (ISSprOM). Full list in the [release notes](../../releases/tag/v1.5.7).
+**What's new in 1.5.7:** Files › Settings is one window for program settings, save locations and defaults. OK, Apply, Cancel and Reset to defaults stay pinned at the top; only the pane scrolls. A default output folder starts a new project in the folder you choose. The Settings list uses the theme palette in light and dark mode. With Find LiDAR open at 125% text size, the Map type box can clip Sprint 1:4000 (ISSprOM). Full list in the [release notes](../../releases/tag/v1.5.7).
 
 | Your computer | Download |
 |---|---|
