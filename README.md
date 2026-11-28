@@ -2,27 +2,27 @@
 
 ## Download
 
-- **Windows installer:** [LasGuide-Setup-x64.exe](https://github.com/wdickin/LasGuide-releases/releases/latest/download/LasGuide-Setup-x64.exe)
-- **Windows zip:** [LasGuide-windows-x64.zip](https://github.com/wdickin/LasGuide-releases/releases/latest/download/LasGuide-windows-x64.zip)
-- **Mac Apple Silicon:** [LasGuide-macos-arm64.dmg](https://github.com/wdickin/LasGuide-releases/releases/latest/download/LasGuide-macos-arm64.dmg)
-- **Mac Intel:** [LasGuide-macos-x86_64.dmg](https://github.com/wdickin/LasGuide-releases/releases/latest/download/LasGuide-macos-x86_64.dmg)
-- **Linux:** [LasGuide-linux-x86_64](https://github.com/wdickin/LasGuide-releases/releases/latest/download/LasGuide-linux-x86_64)
+- **Windows installer:** [LasGuide-Setup-x64.exe](https://github.com/WildTerrainNavigation/LasGuide-releases/releases/latest/download/LasGuide-Setup-x64.exe)
+- **Windows zip:** [LasGuide-windows-x64.zip](https://github.com/WildTerrainNavigation/LasGuide-releases/releases/latest/download/LasGuide-windows-x64.zip)
+- **Mac Apple Silicon:** [LasGuide-macos-arm64.dmg](https://github.com/WildTerrainNavigation/LasGuide-releases/releases/latest/download/LasGuide-macos-arm64.dmg)
+- **Mac Intel:** [LasGuide-macos-x86_64.dmg](https://github.com/WildTerrainNavigation/LasGuide-releases/releases/latest/download/LasGuide-macos-x86_64.dmg)
+- **Linux:** [LasGuide-linux-x86_64](https://github.com/WildTerrainNavigation/LasGuide-releases/releases/latest/download/LasGuide-linux-x86_64)
 
 LasGuide is a free desktop app for Karttapullautin (pullauta), the tool that turns LiDAR point clouds into orienteering maps. Find free LiDAR for your area (United States, Canada, Finland and Sweden) or add your own `.laz`/`.las` files, crop to the area you want, press Start, and the app prepares the data, runs pullauta and saves a map you can open in OpenOrienteering Mapper.
 
 This repository only hosts the ready-to-run downloads. Get them from the [Releases](../../releases/latest) page.
 
-**Current version: [v1.5.6](../../releases/tag/v1.5.6)** (released 2026-11-28).
+**Current version: [v1.5.7](../../releases/tag/v1.5.7)** (released 2026-11-28).
 
-**What's new in 1.5.6:** At a 1024 px Expert window, ISOM 2017-2 and ISSprOM 2019-2 stay whole, and the Scale dropdown sits directly before the symbol set. Make map stays grey until LiDAR analysis has finished, then Expert mode pauses so you can review before saving. Analysis sliders change the preview square and Compare only, not the saved map. Find LiDAR no longer freezes while Livelox events load. On Windows, a system colour no longer crashes the app at start-up. Wales and North Carolina LiDAR are available in Find LiDAR. Full list in the [release notes](../../releases/tag/v1.5.6).
+**What's new in 1.5.7:** Files › Settings is one window for program settings, save locations and defaults. OK, Apply, Cancel and Reset to defaults stay pinned at the top; only the pane scrolls. A default output folder starts a new project in the folder you choose. The Settings list uses the theme palette in light and dark mode. Paint building blocks on the map image (experimental, Expert mode only) only paints the map image in Expert mode and is not saved in the .omap. With Find LiDAR open at 125% text size, the Map type box can clip Sprint 1:4000 (ISSprOM). Full list in the [release notes](../../releases/tag/v1.5.7).
 
 | Your computer | Download |
 |---|---|
-| Windows 10/11 (64-bit), installer (recommended) | [`LasGuide-Setup-x64.exe`](https://github.com/wdickin/LasGuide-releases/releases/latest/download/LasGuide-Setup-x64.exe) |
-| Windows 10/11 (64-bit), portable (no install) | [`LasGuide-windows-x64.zip`](https://github.com/wdickin/LasGuide-releases/releases/latest/download/LasGuide-windows-x64.zip) |
-| Mac with Apple Silicon (M1, M2, M3, M4…) | [`LasGuide-macos-arm64.dmg`](https://github.com/wdickin/LasGuide-releases/releases/latest/download/LasGuide-macos-arm64.dmg) |
-| Mac with an Intel processor | [`LasGuide-macos-x86_64.dmg`](https://github.com/wdickin/LasGuide-releases/releases/latest/download/LasGuide-macos-x86_64.dmg) |
-| Linux x86_64 (Ubuntu 22.04+ / Debian 12+) | [`LasGuide-linux-x86_64`](https://github.com/wdickin/LasGuide-releases/releases/latest/download/LasGuide-linux-x86_64) |
+| Windows 10/11 (64-bit), installer (recommended) | [`LasGuide-Setup-x64.exe`](https://github.com/WildTerrainNavigation/LasGuide-releases/releases/latest/download/LasGuide-Setup-x64.exe) |
+| Windows 10/11 (64-bit), portable (no install) | [`LasGuide-windows-x64.zip`](https://github.com/WildTerrainNavigation/LasGuide-releases/releases/latest/download/LasGuide-windows-x64.zip) |
+| Mac with Apple Silicon (M1, M2, M3, M4…) | [`LasGuide-macos-arm64.dmg`](https://github.com/WildTerrainNavigation/LasGuide-releases/releases/latest/download/LasGuide-macos-arm64.dmg) |
+| Mac with an Intel processor | [`LasGuide-macos-x86_64.dmg`](https://github.com/WildTerrainNavigation/LasGuide-releases/releases/latest/download/LasGuide-macos-x86_64.dmg) |
+| Linux x86_64 (Ubuntu 22.04+ / Debian 12+) | [`LasGuide-linux-x86_64`](https://github.com/WildTerrainNavigation/LasGuide-releases/releases/latest/download/LasGuide-linux-x86_64) |
 
 ## What it does
 
@@ -73,4 +73,4 @@ Free for personal, club, school and other non-commercial use under the [PolyForm
 
 pullauta (Karttapullautin) is a separate program under the GPL-3.0 ([source](https://github.com/karttapullautin/karttapullautin)).
 
-More help is in the [wiki](../../wiki), including the [Help Guide](../../wiki/Help-Guide). A PDF is on the release: [LasGuide-Help-Guide-1.5.6.pdf](https://github.com/wdickin/LasGuide-releases/releases/download/v1.5.6/LasGuide-Help-Guide-1.5.6.pdf).
+More help is in the [wiki](../../wiki), including the [Help Guide](../../wiki/Help-Guide). A PDF is on the release: [LasGuide-Help-Guide-1.5.7.pdf](https://github.com/WildTerrainNavigation/LasGuide-releases/releases/download/v1.5.7/LasGuide-Help-Guide-1.5.7.pdf).
